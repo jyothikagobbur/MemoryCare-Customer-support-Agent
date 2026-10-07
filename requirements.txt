@@ -1,0 +1,7 @@
+
+fastapi
+uvicorn
+jinja2
+hindsight-client
+
+Open your browser (Chrome, Edge, Firefox, etc.).Go to: http://127.0.0.1:8000 to view and test your MemoryCare UI (index.html).   To view the interactive API documentation and test endpoints directly, go to: http://127.0.0.1:8000/docs

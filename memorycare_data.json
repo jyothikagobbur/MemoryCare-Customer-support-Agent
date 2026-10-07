@@ -1,0 +1,45 @@
+{
+    "CUST001": [
+        {
+            "environment": "Windows 11, Chrome",
+            "issue": "Login password was not working",
+            "solution": "Reset the password and clear browser cache"
+        },
+        {
+            "environment": "",
+            "issue": "Message: My login password is not working",
+            "solution": "I found a previous similar issue in the customer's history.\n\nPrevious issue: Login password was not working\n\nSuccessful solution: Reset the password and clear browser cache"
+        }
+    ],
+    "cust101": [
+        {
+            "environment": "windows 11, chrome",
+            "issue": "login password was not working",
+            "solution": "Reset the password and clear browser cache"
+        },
+        {
+            "environment": "",
+            "issue": "message:my login password is not working",
+            "solution": "I found a previous similar issue in the customer's history.\n\nPrevious issue: login password was not working\n\nSuccessful solution: Reset the password and clear browser cache"
+        }
+    ],
+    "cust_101": [
+        {
+            "environment": "node 20",
+            "issue": "port 2000 is already in use",
+            "solution": "killed the process in port3000"
+        }
+    ],
+    "cut_101": [
+        {
+            "environment": "",
+            "issue": "what?",
+            "solution": "No previous similar solution was found for this customer.\n\nPlease try the standard troubleshooting steps or provide more details about the problem."
+        },
+        {
+            "environment": "",
+            "issue": "killed the process in port3000",
+            "solution": "I found a previous similar issue in the customer's history.\n\nPrevious issue: what?\n\nSuccessful solution: No previous similar solution was found for this customer.\n\nPlease try the standard troubleshooting steps or provide more details about the problem."
+        }
+    ]
+}
